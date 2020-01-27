@@ -10,3 +10,4 @@
   - [Kelvin Weather](https://github.com/rgarimella0124/JS-Scripts/blob/master/kelvin.js) - To turn a weather forecast in Kelvin, to Fahrenheit.
   - [SpeedType](https://github.com/rgarimella0124/JS-Scripts/blob/master/speedtype) - Node Speed Typing Game with Random Quotes.
   - [PasswordGenerator](https://github.com/rgarimella0124/JS-Scripts/blob/master/Password-Generator) - Generates Password According to Given Conditions.
+  - [Text_Adventure](https://github.com/rgarimella0124/JS-Scripts/blob/master/Text-Adventure) - Random Q&A.
