@@ -11,5 +11,3 @@
   - [SpeedType](https://github.com/rgarimella0124/JS-Scripts/blob/master/speedtype) - Node Speed Typing Game with Random Quotes.
   - [PasswordGenerator](https://github.com/rgarimella0124/JS-Scripts/blob/master/Password-Generator) - Generates Password According to Given Conditions.
   - [Text_Adventure](https://github.com/rgarimella0124/JS-Scripts/blob/master/Text-Adventure) - Random Q&A.
-  - [Meditation_App](https://github.com/rgarimella0124/JS-Scripts/blob/master/meditation-app) - Meditation Sounds App with Timer.
-  - [Weather_App](https://github.com/rgarimella0124/JS-Scripts/blob/master/weather-app) - Wheather App Based on open whether APi.
